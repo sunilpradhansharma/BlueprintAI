@@ -1,0 +1,1 @@
+{'template': 'You are a technical writer. Given these components: {components}, describe the system.', 'input_variables': ['components']}

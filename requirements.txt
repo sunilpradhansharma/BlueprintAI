@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+pyyaml
+beautifulsoup4
+openai
+langchain
+graphviz
+matplotlib
+seaborn
+plotly
+python-dotenv
+gradio
